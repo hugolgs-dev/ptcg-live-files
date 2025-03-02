@@ -1,0 +1,13 @@
+[0302/011825.402:ERROR:network_change_notifier_win.cc(221)] WSALookupServiceBegin failed with: 0
+[0302/011826.120:ERROR:dxva_video_decode_accelerator_win.cc(1433)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: Module not found. (0x7E)
+[0302/011826.338:ERROR:network_change_notifier_win.cc(221)] WSALookupServiceBegin failed with: 0
+[0302/011845.280:ERROR:address_sorter_win.cc(108)] SIO_ADDRESS_LIST_SORT failed 0
+[0302/011845.860:ERROR:address_sorter_win.cc(108)] SIO_ADDRESS_LIST_SORT failed 0
+[0302/011925.693:ERROR:address_sorter_win.cc(108)] SIO_ADDRESS_LIST_SORT failed 0
+[0302/012018.782:ERROR:address_sorter_win.cc(108)] SIO_ADDRESS_LIST_SORT failed 0
+[0302/012019.055:ERROR:address_sorter_win.cc(108)] SIO_ADDRESS_LIST_SORT failed 0
+[0302/012026.419:ERROR:dxva_video_decode_accelerator_win.cc(1433)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: Module not found. (0x7E)
+[0302/012026.419:ERROR:gpu_init.cc(525)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0302/012131.202:ERROR:network_change_notifier_win.cc(221)] WSALookupServiceBegin failed with: 0
+[0302/012132.101:ERROR:dxva_video_decode_accelerator_win.cc(1433)] DXVAVDA fatal error: could not LoadLibrary: msvproc.dll: Module not found. (0x7E)
+[0302/012132.313:ERROR:network_change_notifier_win.cc(221)] WSALookupServiceBegin failed with: 0
